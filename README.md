@@ -18,4 +18,6 @@ A file contains the processing scripts including:
 1. find the missclassifing seed words
 2. calculate the ratio of correct 
 3. Make new lexicon (Version1-Version4.7)
-
+4. FB-extend-lexicon   extend the lexicon from facebook data
+5. tw-extend-lexicon   extend the lexicon from twitter data
+6. Lexicon.doc  sets of seed words after editing by human annotator
